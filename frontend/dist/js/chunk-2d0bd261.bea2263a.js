@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0bd261"],{"2b83":function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("Bonjour")])},o=[],r={name:"Reservation"},u=r,a=t("2877"),s=Object(a["a"])(u,c,o,!1,null,"2e69871c",null);n["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d0bd261.bea2263a.js.map
