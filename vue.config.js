@@ -1,6 +1,7 @@
-const publicPath = process.env.NODE_ENV === 'production' ? '/Spa-website/' : '/'
 module.exports = {
- publicPath: publicPath,
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/Spa-website/'
+    : '/'
 }
 module.exports = {
     chainWebpack: config => {
